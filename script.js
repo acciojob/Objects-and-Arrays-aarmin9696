@@ -1,16 +1,16 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
 
 const person = {
-  name: "Accio Job",
-  age: 25,
+  name: "John Doe",
+  age: 80,
 };
 
 const team = players;
 const team1 = ["John", "Bob", "Alice", "Poppy"];
 
 const cap1 = {
-	name: "Accio Job",
-  age: 25,
+	name: "John Doe",
+  age: 80,
 	}
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
