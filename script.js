@@ -6,9 +6,12 @@ const person = {
 };
 
 const team = players;
-let team1 = ["John", "Bob", "Alice", "Poppy"];
+const team1 = ["John", "Bob", "Alice", "Poppy"];
 
-let cap1 = person;
+const cap1 = {
+	name: "Accio Job",
+  age: 25,
+	}
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;
